@@ -91,9 +91,8 @@ You can search for specific topics from the search bar on this page. 15 related 
 ![Contact Page](/Screenshots/contact.png)
 
 <!-- CONTACT -->
-## Team Members
-
-Yash Suryawanshi - https://github.com/curiyash - curiyash19@gmail.com  
-Shyam Randar - https://github.com/ShyamR12 - shyamrandar12@gmail.com
+## Made By
+[Yash Suryawanshi](https://github.com/curiyash)
+[Shyam Randar](https://github.com/ShyamR12)
 
 Project Link: [https://github.com/curiyash/The-Forty-Two-Times](https://github.com/curiyash/The-Forty-Two-Times)
