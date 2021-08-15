@@ -92,7 +92,7 @@ You can search for specific topics from the search bar on this page. 15 related 
 
 <!-- CONTACT -->
 ## Made By
-[Yash Suryawanshi](https://github.com/curiyash)
-[Shyam Randar](https://github.com/ShyamR12)
+* [Yash Suryawanshi](https://github.com/curiyash)  
+* [Shyam Randar](https://github.com/ShyamR12)
 
 Project Link: [https://github.com/curiyash/The-Forty-Two-Times](https://github.com/curiyash/The-Forty-Two-Times)
