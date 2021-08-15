@@ -1,5 +1,5 @@
-# The-Fourty-Two-Times
-### "Antithesis to the Enigma of Fourty-Two"
+# The-Forty-Two-Times
+### "Antithesis to the Enigma of Forty-Two"
 <!-- TABLE OF CONTENTS -->
 <!-- ## Table of Contents
   1.
@@ -93,7 +93,7 @@ You can search for specific topics from the search bar on this page. 15 related 
 <!-- CONTACT -->
 ## Team Members
 
-Yash Suryawanshi - https://github.com/curiyash - curiyash19@gmail.com
-  Shyam Randar - https://github.com/ShyamR12 - shyamrandar12@gmail.com
+Yash Suryawanshi - https://github.com/curiyash - curiyash19@gmail.com  
+Shyam Randar - https://github.com/ShyamR12 - shyamrandar12@gmail.com
 
 Project Link: [https://github.com/curiyash/The-Forty-Two-Times](https://github.com/curiyash/The-Forty-Two-Times)
