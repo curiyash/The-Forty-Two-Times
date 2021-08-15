@@ -17,6 +17,13 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+      <ul>
+        <li><a href="#Homepage">Homepage</a></li>
+        <li><a href="#Categories">Categories</a></li>
+        <li><a href="#Individual Page">Individual Page</a></li>
+        <li><a href="#Discover">Discover</a></li>
+        <li><a href="#Contact Page">Contact Page</a></li>
+      </ul>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -62,42 +69,32 @@ To get a local copy up and running follow these simple steps.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+#### Homepage
+![Homepage][home]
+Trending news in different categories are displayed on the homepage in a carousel. Top 4 trending news in your country will appear at the side of the carousel. You can read about the news in depth by clicking on the news headline. You can navigate the website through the navigation bar at the top. Clicking on 'Categories' will lead you to...
 
+#### Categories
+![Categories][categories]
+You can select from 9 default categories of news. White buttons indicate unselected tags and black buttons indicate selected tags. Top 3 news of chosen category will be displayed on the screen. Your last chosen category will appear at the top of the page. You can read about the news in depth by clicking on the news headline. You can explore the categories more by clicking on:
+* 'Read More'
+* Title of the category
+which will lead you to each catergory's individual page.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+#### Individual Page
+![Individual Page][individual_page]
+Here, 12 other news will appear in the form of cards below the top three news. You can read about the news in depth by clicking on the news headline or image.
 
+#### Discover
+![Discover][discover]
+You can search for specific topics from the search bar on this page. 15 related news articles will be displayed below. You can read about the news in depth by clicking on the news headline or image.
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+#### Contact Page
+![Contact Page][contact]
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Yash - curiyash19@gmail.com
+Shyam - shyamrandar12@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/curiyash/The-Fourty-Two-Times](https://github.com/curiyash/The-Fourty-Two-Times)
