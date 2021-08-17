@@ -1,5 +1,6 @@
 # The-Forty-Two-Times
 ### "Antithesis to the Enigma of Forty-Two"
+42 is the answer to the ultimate question of the life, the universe and everything. The answer is known but the question is enigmatic. Our website aims to give the users the answers along with questions of the life, the universe and everything. We may not know the ultimate question soon, but we can always understand the other questions of life, the universe and everything and their answers by following the news. Our website aims to bring you just that. The website is still in development and we hope to better it as we go. Let us know how you find it!
 <!-- TABLE OF CONTENTS -->
 <!-- ## Table of Contents
   1.
@@ -68,31 +69,31 @@ To get a local copy up and running follow these simple steps.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-#### Homepage
+### Homepage
 ![Homepage](/Screenshots/home.png)
 Trending news in different categories are displayed on the homepage in a carousel. Top 4 trending news in your country will appear at the side of the carousel. You can read about the news in depth by clicking on the news headline. You can navigate the website through the navigation bar at the top. Clicking on 'Categories' will lead you to...
 
-#### Categories
+### Categories
 ![Categories](/Screenshots/categories.png)
 You can select from 9 default categories of news. White buttons indicate unselected tags and black buttons indicate selected tags. Top 3 news of chosen category will be displayed on the screen. Your last chosen category will appear at the top of the page. You can read about the news in depth by clicking on the news headline. You can explore the categories more by clicking on:
 * 'Read More'
 * Title of the category
 which will lead you to each catergory's individual page.
 
-#### Individual Page
+### Individual Page
 ![Individual Page](/Screenshots/individual_page.png)
 Here, 12 other news will appear in the form of cards below the top three news. You can read about the news in depth by clicking on the news headline or image.
 
-#### Discover
+### Discover
 ![Discover](/Screenshots/discover.png)
 You can search for specific topics from the search bar on this page. 15 related news articles will be displayed below. You can read about the news in depth by clicking on the news headline or image.
 
-#### Contact Page
+### Contact Page
 ![Contact Page](/Screenshots/contact.png)
 
 <!-- CONTACT -->
 ## Made By
-* [Yash Suryawanshi](https://github.com/curiyash)  
-* [Shyam Randar](https://github.com/ShyamR12)
+* [Yash Suryawanshi](https://github.com/curiyash) - curiyash19@gmail.com
+* [Shyam Randar](https://github.com/ShyamR12) - randarsv12@gmail.com
 
 Project Link: [https://github.com/curiyash/The-Forty-Two-Times](https://github.com/curiyash/The-Forty-Two-Times)
